@@ -4,6 +4,7 @@
 *.zip
 archives/*
 deliverables/archives/*
+deliverables/archives_rvsd2/*
 notebooks/archives_rvsd/*
 data/archives/*
 ref_docs/archives/*
